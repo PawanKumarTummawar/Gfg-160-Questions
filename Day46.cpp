@@ -1,4 +1,4 @@
-// Union of Arrays with Duplicates
+// Union of Arrays with Duplicates - Day-46
 
 // int findUnion(vector<int>& a, vector<int>& b) {
 //         unordered_map<int, int> mpp;
