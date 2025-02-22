@@ -1,4 +1,4 @@
-k - th Smallest in BST
+k - th Smallest in BSTD
 
     void
     inorder(Node *root, int &k, int &ans)
