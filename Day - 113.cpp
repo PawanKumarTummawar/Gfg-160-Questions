@@ -1,6 +1,6 @@
+Longest Palindromic Subsequence
 
-
-int dp[1001][1001];
+    int dp[1001][1001];
 int LCS(string &a, string &b, int i, int j)
 {
     if (i == a.size() || j == b.size())
